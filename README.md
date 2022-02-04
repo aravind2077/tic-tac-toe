@@ -7,7 +7,7 @@ A simple TIC TAC TOE game made using Python in Jupyter Notebook
 
 The slots have been numbered so as to players know what to input when marking a slot. 
 
-The clear command works only in jupyter notebook. Playes to move first is chosen randomly.
+The clear command works only in jupyter notebook. Player to move first is chosen randomly.
 
 
 ![Screenshot (158)](https://user-images.githubusercontent.com/91046698/143774102-7cdbc0a3-2ca0-45e8-aa43-43137986be9e.png)
